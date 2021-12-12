@@ -7,8 +7,6 @@ References:
 
 ##### Instructions #####
 
-Activate Virtual Enviroment
-
 Install Dependencies:
 libjpeg-dev 
 libtiff5-dev 
@@ -25,18 +23,13 @@ libatlas-base-dev
 libhdf5-103 
 
 Install OpenCV 4.1.0.25
+Install Tensorflow Lite in virtual enviroment 
 
-Install Tensorflow Lite in virtual enviroment
+###### Installation #####
+(1) TBD
 
-###### Terminal Commands: ########
-
-source tflite-env/bin/activate
-
-sudo apt -y install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev
-
-sudo apt -y install qt4-dev-tools libatlas-base-dev libhdf5-103 
-
-python -m pip install opencv-contrib-python==4.1.0.25
-
-python -m pip install <paste in .whl link>
+###### Terminal - Run Python Script in Virtual Enviroment: ########
+(1) In Terminal: Go to working directory
+(2) In Terminal: Run 'source tflite-env/bin/activate'
+(3) In Terminal: Run 'python Chu_Object-Detection-Fall 2021.py -- modeldir=coco_ssd)mobilenet_v1
   
