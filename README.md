@@ -1,5 +1,10 @@
 # Object-Detection
 
+References: 
+https://github.com/ari-dasci/OD-WeaponDetection
+https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588
+https://sci2s.ugr.es/weapons-detection#Public%20datasets
+
 ##### Instructions #####
 
 Activate Virtual Enviroment
