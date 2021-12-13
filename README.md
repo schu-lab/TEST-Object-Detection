@@ -4,6 +4,7 @@ References:
 (1) https://github.com/ari-dasci/OD-WeaponDetection
 (2) https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588
 (3) https://sci2s.ugr.es/weapons-detection#Public%20datasets
+(4) https://colab.research.google.com/drive/1NGugxgacohC74vcJM6uJO93j8QUe3D_4?usp=sharing
 
 ##### Instructions #####
 
